@@ -1029,4 +1029,3 @@ def start_game():
     print_location()
 
 title_screen()
-
